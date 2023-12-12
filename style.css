@@ -124,10 +124,3 @@ nav ul li{
         left:500px;
     }
 }
-@media only screen and (max-width: 750px)
-{
-    #gif{
-        position: relative;
-        left:500px;
-    }
-}
