@@ -9,9 +9,9 @@ let masterSongName = document.getElementById('masterSongName');
 let songItem = Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     {SongName: "Moye moye" , filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {SongName: "Tera Mera Rishta" , filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {SongName: "Let me love you" , filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {SongName: "Jaane vo Kasie log" , filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {SongName: "Tera Mera" , filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {SongName: "Let me" , filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {SongName: "Jaane vo" , filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {SongName: "Vrdaan" , filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {SongName: "Tu hai kaha" , filePath: "songs/6.mp3", coverPath: "covers/6.jpg"}
 ]
