@@ -117,3 +117,10 @@ nav ul li{
         font-weight: bold;
     }
 }
+@media only screen and (max-width: 750px)
+{
+    #gif{
+        position: relative;
+        left:500px;
+    }
+}
